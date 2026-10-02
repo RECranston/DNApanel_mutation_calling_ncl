@@ -205,7 +205,6 @@ mkdir -p bed_files
 
 # Download bed file for use with our panel data[https://www.dropbox.com/scl/fi/w7ay8gp7af4sini8uktuu/NPHD2019A_Covered_paddel_fixed.sorted.bed?rlkey=fe1h7zgay8yg0m9dspy8erdki&st=d2xyae\
 ku&dl=0]
-wget "https://www.dropbox.com/scl/fi/w7ay8gp7af4sini8uktuu/NPHD2019A_Covered_paddel_fixed.sorted.bed?rlkey=fe1h7zgay8yg0m9dspy8erdki&st=d2xyaeku&dl=0" -O bed_files/NPHD2019A_Covered_pa\
-ddel_fixed.sorted.bed
+wget "https://www.dropbox.com/scl/fi/w7ay8gp7af4sini8uktuu/NPHD2019A_Covered_paddel_fixed.sorted.bed?rlkey=fe1h7zgay8yg0m9dspy8erdki&st=d2xyaeku&dl=1" -O bed_files/NPHD2019A_Covered_paddel_fixed.sorted.bed
 
 echo -en "*** All done ***"
